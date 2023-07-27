@@ -1,0 +1,19 @@
+p{
+    color: red;
+    
+}
+
+.class1{
+  background-image: url('/image/car.jpg');
+  width: 700px;
+  height: 700px;
+  background-repeat: no-repeat;
+}
+.class1 h1{
+    color: blue;
+}
+
+h1{
+    border: dotted blueviolet;
+    border-width: 2px 4px 8px 16px;
+}
