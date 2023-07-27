@@ -17,3 +17,13 @@ h1{
     border: dotted blueviolet;
     border-width: 2px 4px 8px 16px;
 }
+
+#pfirst{
+    color: chocolate;
+}
+
+#pfirst{
+    border-color: aqua;
+    border-width: 2px 3px 4px 0;
+    border-style: solid;
+}
